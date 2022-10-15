@@ -1,0 +1,52 @@
+Tue Oct 11 16:11:39 2022 | SERVER-CONNECT [socket-240]
+Tue Oct 11 16:11:53 2022 | SERVER << socket-240:who
+Tue Oct 11 16:11:53 2022 | SERVER >> socket-240:Tarasiuk Oleksandr k-23, var 16. [Game sea battle]
+Tue Oct 11 16:11:55 2022 | SERVER << socket-240:s
+Tue Oct 11 16:11:55 2022 | SERVER >> socket-240:s-s
+Tue Oct 11 16:12:03 2022 | SERVER << socket-240:56
+Tue Oct 11 16:12:03 2022 | SERVER >> socket-240:h-f56
+Tue Oct 11 16:12:07 2022 | SERVER << socket-240:48
+Tue Oct 11 16:12:07 2022 | SERVER >> socket-240:h-f48
+Tue Oct 11 16:12:12 2022 | SERVER << socket-240:32
+Tue Oct 11 16:12:12 2022 | SERVER >> socket-240:h-s32
+Tue Oct 11 16:12:21 2022 | SERVER << socket-240:22
+Tue Oct 11 16:12:21 2022 | SERVER >> socket-240:h-f22
+Tue Oct 11 16:12:25 2022 | SERVER << socket-240:42
+Tue Oct 11 16:12:25 2022 | SERVER >> socket-240:h-f42
+Tue Oct 11 16:12:30 2022 | SERVER << socket-240:23
+Tue Oct 11 16:12:30 2022 | SERVER >> socket-240:h-f23
+Tue Oct 11 16:12:36 2022 | SERVER << socket-240:21
+Tue Oct 11 16:12:36 2022 | SERVER >> socket-240:h-f21
+Tue Oct 11 16:12:44 2022 | SERVER << socket-240:31
+Tue Oct 11 16:12:44 2022 | SERVER >> socket-240:h-s31
+Tue Oct 11 16:12:49 2022 | SERVER << socket-240:30
+Tue Oct 11 16:12:49 2022 | SERVER >> socket-240:h-s30
+Tue Oct 11 16:12:54 2022 | SERVER << socket-240:34
+Tue Oct 11 16:12:54 2022 | SERVER >> socket-240:h-f34
+Tue Oct 11 16:13:01 2022 | SERVER << socket-240:33
+Tue Oct 11 16:13:01 2022 | SERVER >> socket-240:h-f33
+Tue Oct 11 16:13:07 2022 | SERVER << socket-240:00
+Tue Oct 11 16:13:07 2022 | SERVER >> socket-240:h-s00
+Tue Oct 11 16:13:11 2022 | SERVER << socket-240:10
+Tue Oct 11 16:13:11 2022 | SERVER >> socket-240:h-s10
+Tue Oct 11 16:13:17 2022 | SERVER << socket-240:72
+Tue Oct 11 16:13:17 2022 | SERVER >> socket-240:h-f72
+Tue Oct 11 16:13:28 2022 | SERVER << socket-240:fn
+Tue Oct 11 16:13:28 2022 | SERVER >> socket-240:f-s2415
+Tue Oct 11 16:13:37 2022 | SERVER-DISCONNECT [socket-240]
+Fri Oct 14 12:14:47 2022 | SERVER-CONNECT [socket-276]
+Fri Oct 14 12:14:49 2022 | SERVER-DISCONNECT [socket-276]
+Fri Oct 14 12:18:22 2022 | SERVER-CONNECT [socket-272]
+Fri Oct 14 12:18:34 2022 | SERVER << socket-272:who
+Fri Oct 14 12:18:34 2022 | SERVER >> socket-272:Tarasiuk Oleksandr k-23, var 16. [Game sea battle]
+Fri Oct 14 12:18:41 2022 | SERVER << socket-272:fn
+Fri Oct 14 12:18:41 2022 | SERVER >> socket-272:s-f
+Fri Oct 14 12:18:47 2022 | SERVER << socket-272:s
+Fri Oct 14 12:18:47 2022 | SERVER >> socket-272:s-s
+Fri Oct 14 12:19:13 2022 | SERVER << socket-272:00
+Fri Oct 14 12:19:13 2022 | SERVER >> socket-272:h-s00
+Fri Oct 14 12:19:23 2022 | SERVER << socket-272:01
+Fri Oct 14 12:19:23 2022 | SERVER >> socket-272:h-f01
+Fri Oct 14 12:19:29 2022 | SERVER << socket-272:fn
+Fri Oct 14 12:19:29 2022 | SERVER >> socket-272:f-s1211
+Fri Oct 14 12:19:37 2022 | SERVER-DISCONNECT [socket-272]
